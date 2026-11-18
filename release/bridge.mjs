@@ -1,5 +1,5 @@
 /**
- * AI 打工人 · 实时接入桥
+ * 人工智能流水线 · 实时接入桥
  *
  * 作用：把 DeepSeek Harness（DSH）正在写入的会话日志，
  * 实时转成这个页面能吃的 SSE 事件流，供 dist 里的 3D 场景播放。
@@ -540,7 +540,7 @@ if (invokedDirectly) {
   bridge
     .listen()
     .then((url) => {
-      console.log("AI 打工人 · 接入桥已启动");
+      console.log("人工智能流水线 · 接入桥已启动");
       console.log("  SSE   : " + url + "/events");
       console.log("  健康检查: " + url + "/health");
       console.log("  会话目录: " + (get("sessions") || path.join(os.homedir(), ".dsh", "sessions")));

@@ -64,7 +64,7 @@ export function Hud() {
         <div className="brand">
           <div className="logo" />
           <div>
-            <h1>AI 打工人</h1>
+            <h1>人工智能流水线</h1>
             <p>智能体工作过程 · 3D 可视化</p>
           </div>
         </div>

@@ -92,7 +92,7 @@ bridge
   .then(() => {
     server.listen(pagePort, "127.0.0.1", () => {
       console.log("");
-      console.log("  AI 打工人 · 接入版");
+      console.log("  人工智能流水线 · 接入版");
       console.log("  ────────────────────────────");
       console.log(`  页面：${pageUrl}`);
       console.log(`  事件流：http://127.0.0.1:${bridgePort}/events`);

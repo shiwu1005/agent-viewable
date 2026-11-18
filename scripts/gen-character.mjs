@@ -284,7 +284,7 @@ async function download(url) {
 /* ------------------------------------------------------------------ 主流程 */
 
 async function main() {
-  console.log("AI 打工人 · Lux3D 角色流水线");
+  console.log("人工智能流水线 · Lux3D 角色流水线");
   console.log(`  区域 ${REGION}  (${BASE})`);
   if (!KEY && !DRY) {
     console.error("缺少 AHOLO_API_KEY");

@@ -61,7 +61,7 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, "127.0.0.1", () => {
   const url = `http://127.0.0.1:${PORT}`;
   console.log("");
-  console.log("  AI 打工人 · 场景调整版");
+  console.log("  人工智能流水线 · 场景调整版");
   console.log("  ────────────────────────────");
   console.log(`  地址：${url}`);
   console.log("  关掉这个黑窗口就退出");
