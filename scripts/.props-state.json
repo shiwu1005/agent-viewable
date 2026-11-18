@@ -1,0 +1,58 @@
+{
+  "desk": {
+    "taskId": 7599829,
+    "done": true,
+    "height": 0.78
+  },
+  "chair": {
+    "taskId": 7599830,
+    "done": true,
+    "height": 1.05
+  },
+  "monitor": {
+    "taskId": 7601781
+  },
+  "bookshelf": {
+    "taskId": 7602170
+  },
+  "plant": {
+    "taskId": 7609385,
+    "done": true,
+    "height": 1.2
+  },
+  "printer": {
+    "taskId": 7609386,
+    "done": true,
+    "height": 0.6
+  },
+  "sofa": {
+    "taskId": 7845082,
+    "done": true,
+    "height": 0.85
+  },
+  "armchair": {
+    "taskId": 7845084,
+    "done": true,
+    "height": 0.95
+  },
+  "coffeetable": {
+    "taskId": 7853044,
+    "done": true,
+    "height": 0.45
+  },
+  "mug": {
+    "taskId": 7998425,
+    "done": true,
+    "height": 0.1
+  },
+  "bookstack": {
+    "taskId": 7998426,
+    "done": true,
+    "height": 0.12
+  },
+  "speaker": {
+    "taskId": 7998574,
+    "done": true,
+    "height": 0.24
+  }
+}
